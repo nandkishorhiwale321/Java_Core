@@ -1,0 +1,1 @@
+package object_class_method;
