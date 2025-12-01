@@ -16,7 +16,7 @@ public class Demo {
 			System.out.println(arr[3]);
 		}
 		catch(IndexOfBound e) {
-			System.out.println("Something" + e.getMessage());
+			System.out.println("Something " + e.getMessage());
 		}
 		finally {
 			System.out.println("The End is Near....");
